@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/leyou-parent/leyou-common/leyou-common.iml" filepath="$PROJECT_DIR$/leyou-parent/leyou-common/leyou-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou-parent/leyou-getway/leyou-gateway.iml" filepath="$PROJECT_DIR$/leyou-parent/leyou-getway/leyou-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou-parent/leyou-item/leyou-item.iml" filepath="$PROJECT_DIR$/leyou-parent/leyou-item/leyou-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou-parent/leyou-item/leyou-item-interface/leyou-item-interface.iml" filepath="$PROJECT_DIR$/leyou-parent/leyou-item/leyou-item-interface/leyou-item-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou-parent/leyou-item/leyou-item-service/leyou-item-service.iml" filepath="$PROJECT_DIR$/leyou-parent/leyou-item/leyou-item-service/leyou-item-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/leyou-mall.iml" filepath="$PROJECT_DIR$/leyou-mall.iml" />
       <module fileurl="file://$PROJECT_DIR$/leyou-parent/leyou-parent.iml" filepath="$PROJECT_DIR$/leyou-parent/leyou-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leyou-parent/leyou-registry/leyou-registry.iml" filepath="$PROJECT_DIR$/leyou-parent/leyou-registry/leyou-registry.iml" />
     </modules>
   </component>
 </project>
